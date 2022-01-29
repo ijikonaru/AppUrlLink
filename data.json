@@ -1,18 +1,18 @@
 [
     {
         "title": "App01",
-        "link_url": "https://www.google.co.th/?hl=th"
+        "linkUrl": "https://www.google.co.th/?hl=th"
     },
     {
         "title": "App02",
-        "link_url": "https://flutter.dev/"
+        "linkUrl": "https://flutter.dev/"
     },
     {
         "title": "App03",
-        "link_url": "https://material.io/design"
+        "linkUrl": "https://material.io/design"
     },
     {
         "title": "App01",
-        "link_url": "https://www.youtube.com/"
+        "linkUrl": "https://www.youtube.com/"
     }
 ]
